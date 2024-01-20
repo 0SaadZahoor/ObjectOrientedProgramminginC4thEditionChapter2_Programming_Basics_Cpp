@@ -1,5 +1,5 @@
 // assign_main.cpp created on 2024
-//demonstrates aritmetic assignment operaors
+//demonstrates arithmetic assignment operators
 
 #include<iostream>
 
